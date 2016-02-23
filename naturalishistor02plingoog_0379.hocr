@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./naturalishistor02plingoog_0379.png"; bbox 0 0 2286 3938; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 72 1587 946 1904">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 72 1587 946 1904">
+     <span class='ocr_line' id='line_1_1' title="bbox 266 1587 762 1676; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 266 1587 312 1672; x_wconf 80' lang='lat' dir='ltr'><strong>O.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 334 1589 494 1674; x_wconf 88' lang='lat' dir='ltr'>PLINI</span> <span class='ocrx_word' id='word_1_3' title='bbox 516 1590 762 1676; x_wconf 76' lang='lat' dir='ltr'>SECUNDI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 72 1800 946 1904; baseline -0.005 -2"><span class='ocrx_word' id='word_1_4' title='bbox 72 1800 505 1904; x_wconf 80' lang='lat' dir='ltr'><strong>NATURALIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 542 1801 946 1904; x_wconf 81' lang='lat' dir='ltr'><strong>HISTORIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 214 2064 680 2133">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 214 2064 680 2133">
+     <span class='ocr_line' id='line_1_3' title="bbox 214 2064 680 2133; baseline 0.006 -3"><span class='ocrx_word' id='word_1_6' title='bbox 214 2095 232 2110; x_wconf 50' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 348 2064 468 2132; x_wconf 85' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_8' title='bbox 489 2064 680 2133; x_wconf 80' lang='lat' dir='ltr'>vll—XV.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1148 3938">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1148 3938">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1148 3938; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1148 3938; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
